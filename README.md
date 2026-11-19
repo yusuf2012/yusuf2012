@@ -32,7 +32,7 @@ I build web applications, REST APIs, and AI-powered tools.
 ### 🤖 AI Platform
 Full-stack web app with user authentication and three AI-powered tools — chat, text analysis, and image analysis.
 **Stack:** FastAPI · SQLAlchemy · Gemini AI · JWT Auth · Vanilla JS
-[View Code](https://github.com/yusuf2012/ai-platform)
+[View Code](https://github.com/yusuf2012/ai-platform) · [Live Demo](https://ai-platform-neci.onrender.com)
 
 ### 🌤 Weather App
 Real-time weather for any city worldwide with 5-day forecast, unit switching, and sunrise/sunset times.
