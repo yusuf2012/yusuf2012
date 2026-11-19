@@ -49,6 +49,10 @@ OOP calculator with history tracking and 8 pytest unit tests covering all operat
 **Stack:** Python · pytest · OOP
 [View Code](https://github.com/yusuf2012/calculator)
 
+### 🛠 JavaScript Projects
+8 frontend projects — weather app, movie search, markdown notes, recipe finder, colour picker, calculator, coffee builder, DOM manipulation.
+**Stack:** Vanilla JavaScript · HTML · CSS · REST APIs
+[View Code](https://github.com/yusuf2012) · [Live Demo](https://gleaming-panda-bd9461.netlify.app/06-calculator.html)
 ---
 
 ## 📊 GitHub Stats
